@@ -5,3 +5,7 @@ In this project I have been practicing the skills I
 gathered during this course.
 It basically reads data from a CSV and build an Histogram u
 using Plotly.
+
+Now the project shows some checkboxes asking for the specific
+type of graph the user can generate using one single button,
+as the project additional challenge requires.
