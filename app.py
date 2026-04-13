@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+st.header('Proyecto Sprint 7 - Estudiante Sara Hoyos')
+
 st.write('Por favor marca las casillas de los tipos de gráficos quieres generar.')
 
 car_data = pd.read_csv('vehicles_us.csv')
